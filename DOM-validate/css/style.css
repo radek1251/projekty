@@ -1,0 +1,26 @@
+form#newsletter-form {
+    background-color: rgb(154, 186, 27);
+    font-size: 16px;
+    color: #fff;
+    padding: 30px;
+    width: 30%;
+}
+
+input, label {
+    display: inline-block;
+}
+
+
+
+
+
+button[type='submit'] {
+    background-color: #ff9300;
+    color: #fff;
+   
+}
+
+button[type='submit']:hover {
+    background-color: #333333;
+
+}
